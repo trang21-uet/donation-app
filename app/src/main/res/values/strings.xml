@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Donation App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="toast_button_text">TOAST</string>4
+
+    <string name="count_button_text">COUNT</string>
+    <!-- TEXT -->
+    <string name="donation_title_text">Welcome Homer</string>
+    <string name="donation_subtitle_text">Please Give Generously</string>
+
+    <string name="paypal_method">Paypal</string>
+    <string name="direct_method">Direct</string>
+
+
+    <string name="donation_button_text">DONATE</string>
+    <string name="amount_title_text">Amount ($)</string>
+
+    <string name="total_so_far_text">Total So Far</string>
+    <string name="total_so_far_value_text">0$</string>
+
+    <string name="amount_donating_placeholder">0 – 999</string>
+
+    <string name="menu_reset">Reset</string>
+    <string name="menu_report">Report</string>
+    <string name="menu_donation">Donation</string>
+
+    <string name="report_title_text">Report</string>
+
+    <string name="defaultUpvoteAmount">00</string>
+    <string name="defaultMethod">N/A</string>
+
+    <string name="report_upvotes">Upvotes</string>
+    <string name="report_method">Method</string>
+    <string name="report_amount">Amount</string>
+</resources>
